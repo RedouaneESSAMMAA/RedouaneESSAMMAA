@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redouaneessammaa" alt="redouaneessammaa" /></a> </p>
 
-- 🔭 I’m currently working on **on Building ETL/ELT pipelines**
+- 🔭 I’m currently working **on Building ETL/ELT pipelines**
 
 - 🌱 I’m currently learning **AI Engineering**
 
